@@ -1,0 +1,276 @@
+1690856859091	geckodriver	INFO	Listening on 127.0.0.1:20631
+1690856862160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "20632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileUfBLlq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690856862468	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690856862535	Marionette	INFO	Listening on port 20674
+WebDriver BiDi listening on ws://127.0.0.1:20632
+Read port: 20674
+1690856862731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:20632/devtools/browser/00b4d3a4-a679-4d0c-a6b5-f2cc3d58a61d
+[Child 46564, MediaDecoderStateMachine #1] WARNING: 22d225ee350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 46564, MediaDecoderStateMachine #1] WARNING: 22d1e5fdbc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 46564, MediaDecoderStateMachine #2] WARNING: 22d1f7d7450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 46564, MediaDecoderStateMachine #2] WARNING: 22d1f7d6130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1690857020924	Marionette	INFO	Stopped listening on port 20674
+Dynamically enable window occlusion 1
+oderStateMachine #1] WARNING: 25491bc5de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690856995523	geckodriver	INFO	Listening on 127.0.0.1:22605
+1690856998601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileB1Y6Iv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690856998897	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690856998967	Marionette	INFO	Listening on port 22630
+WebDriver BiDi listening on ws://127.0.0.1:22606
+Read port: 22630
+1690856999191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:22606/devtools/browser/ced514cc-eb84-4c24-846c-a70c92fa5a25
+[Child 48308, MediaDecoderStateMachine #1] WARNING: 2d2d7e7a9a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690857021849	Marionette	INFO	Stopped listening on port 22630
+Dynamically enable window occlusion 1
+1690857873153	geckodriver	INFO	Listening on 127.0.0.1:34485
+1690857876205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilervK26X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690857876573	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690857876658	Marionette	INFO	Listening on port 34536
+WebDriver BiDi listening on ws://127.0.0.1:34486
+Read port: 34536
+1690857876888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:34486/devtools/browser/b37825c1-8929-4076-84d5-76b74b39093f
+[Child 26876, MediaDecoderStateMachine #1] WARNING: 1f9e3bb6890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690857890624	geckodriver	INFO	Listening on 127.0.0.1:34733
+1690857893664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "34734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile7ibk9J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690857893971	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690857894052	Marionette	INFO	Listening on port 34774
+WebDriver BiDi listening on ws://127.0.0.1:34734
+Read port: 34774
+1690857894311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:34734/devtools/browser/51dd2d8e-9a16-4f4e-961f-f5ad230031fe
+[Child 52220, MediaDecoderStateMachine #1] WARNING: 256387e69b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690857934893	geckodriver	INFO	Listening on 127.0.0.1:35362
+1690857937958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "35363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile9PU5t4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690857938296	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690857938398	Marionette	INFO	Listening on port 35406
+Read port: 35406
+WebDriver BiDi listening on ws://127.0.0.1:35363
+1690857938471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:35363/devtools/browser/15ae943d-7078-43bc-a9e2-b8eb447e78bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.watchparty.me."
+1690858136525	geckodriver	INFO	Listening on 127.0.0.1:37921
+1690858139574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile9a8Y9J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858139827	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858139884	Marionette	INFO	Listening on port 37973
+WebDriver BiDi listening on ws://127.0.0.1:37922
+Read port: 37973
+1690858140040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:37922/devtools/browser/79e24ed4-58fe-43ba-856d-aedd35d8db27
+[Child 52312, MediaDecoderStateMachine #1] WARNING: 2dcfd121ab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52312, MediaDecoderStateMachine #1] WARNING: 2dcfad82bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52312, MediaDecoderStateMachine #1] WARNING: 2dcfad82bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52312, MediaDecoderStateMachine #1] WARNING: 2dcfad82350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52312, MediaDecoderStateMachine #1] WARNING: 2dcf9cd88a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858181515	Marionette	INFO	Stopped listening on port 37973
+Dynamically enable window occlusion 1
+1690858184141	geckodriver	INFO	Listening on 127.0.0.1:38557
+1690858187177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileo0buQP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858187427	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858187483	Marionette	INFO	Listening on port 38597
+WebDriver BiDi listening on ws://127.0.0.1:38558
+Read port: 38597
+1690858187641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:38558/devtools/browser/bf2450f0-6815-4cf1-ac25-9c93c965b165
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Child 39740, MediaDecoderStateMachine #1] WARNING: 24f0f761680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 39740, MediaDecoderStateMachine #1] WARNING: 24f0de36ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 39740, MediaDecoderStateMachine #1] WARNING: 24f0de35bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 39740, MediaDecoderStateMachine #1] WARNING: 24f0de35bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 39740, MediaDecoderStateMachine #1] WARNING: 24f04643de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858272482	geckodriver	INFO	Listening on 127.0.0.1:39622
+1690858275535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "39623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileG7nUJd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858275777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858275832	Marionette	INFO	Listening on port 39666
+WebDriver BiDi listening on ws://127.0.0.1:39623
+Read port: 39666
+1690858276000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:39623/devtools/browser/b36ce524-e62c-48a2-bdab-323e9105d1d0
+[Child 41544, MediaDecoderStateMachine #1] WARNING: 1290b826cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 41544, MediaDecoderStateMachine #1] WARNING: 1290b812460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 41544, MediaDecoderStateMachine #1] WARNING: 12908a118a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 41544, MediaDecoderStateMachine #1] WARNING: 12908a118a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 41544, MediaDecoderStateMachine #1] WARNING: 12908a11130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858318025	geckodriver	INFO	Listening on 127.0.0.1:40172
+1690858321074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "40173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileJaqC0I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858321348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858321416	Marionette	INFO	Listening on port 40212
+WebDriver BiDi listening on ws://127.0.0.1:40173
+Read port: 40212
+1690858321601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:40173/devtools/browser/0497f071-2144-45bf-bfb7-1a67490debe9
+[Child 40484, MediaDecoderStateMachine #1] WARNING: 2d19521a460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858411246	geckodriver	INFO	Listening on 127.0.0.1:41285
+1690858414281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "41286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileNBhc8o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858414583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858414648	Marionette	INFO	Listening on port 41351
+WebDriver BiDi listening on ws://127.0.0.1:41286
+Read port: 41351
+1690858414869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:41286/devtools/browser/83005b49-e70f-4556-a870-4cf2beaa96ad
+[Child 49884, MediaDecoderStateMachine #1] WARNING: 23b88b98020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858546228	geckodriver	INFO	Listening on 127.0.0.1:42947
+1690858549297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "42948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilecEaE7p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858549548	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858549604	Marionette	INFO	Listening on port 42996
+WebDriver BiDi listening on ws://127.0.0.1:42948
+Read port: 42996
+1690858549766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:42948/devtools/browser/de99d927-e6a0-453c-9be6-4c80495c0407
+[Child 36444, MediaDecoderStateMachine #1] WARNING: 205fc6e9340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 36444, MediaDecoderStateMachine #1] WARNING: 205fc6e9340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858630995	geckodriver	INFO	Listening on 127.0.0.1:43953
+1690858634056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "43954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilegNLCNd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858634301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858634359	Marionette	INFO	Listening on port 43998
+WebDriver BiDi listening on ws://127.0.0.1:43954
+Read port: 43998
+1690858634498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:43954/devtools/browser/f6246d4e-0d0b-42fc-a0ca-bd1c3091b0ca
+[Child 49348, MediaDecoderStateMachine #1] WARNING: 254d4f9a680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 49348, MediaDecoderStateMachine #1] WARNING: 254d070fcd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 49348, MediaDecoderStateMachine #1] WARNING: 254d37fb450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858690329	geckodriver	INFO	Listening on 127.0.0.1:44702
+1690858693388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "44703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofiledc4Y5u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858693620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858693673	Marionette	INFO	Listening on port 44737
+WebDriver BiDi listening on ws://127.0.0.1:44703
+Read port: 44737
+1690858693825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:44703/devtools/browser/5668bc83-9dd3-46e2-bc9b-07759cc2d189
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c114d0ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c11768ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c11768ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c0d71f240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c0c5eedf0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52608, MediaDecoderStateMachine #1] WARNING: 14c0d71f790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858754520	geckodriver	INFO	Listening on 127.0.0.1:45748
+1690858757553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "45749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileHjbkmS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858757795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858757850	Marionette	INFO	Listening on port 45808
+WebDriver BiDi listening on ws://127.0.0.1:45749
+Read port: 45808
+1690858758013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:45749/devtools/browser/5d7d8a4a-27cc-415b-bd59-1736f28ed5fc
+1690858845959	geckodriver	INFO	Listening on 127.0.0.1:46986
+1690858849006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "46987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileKuWxKf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858849331	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858849404	Marionette	INFO	Listening on port 47076
+WebDriver BiDi listening on ws://127.0.0.1:46987
+Read port: 47076
+1690858849609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:46987/devtools/browser/c351854d-2892-48e5-a8fd-bd76af3dfc18
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cbec10ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cbca179b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cba7fb8a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cba7fc9a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cbe8bdac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cbca18340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cbca18560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 52820, MediaDecoderStateMachine #1] WARNING: 19cba7fccd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690858935389	geckodriver	INFO	Listening on 127.0.0.1:48193
+1690858938444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "48194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileuLoAqr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858938726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858938793	Marionette	INFO	Listening on port 48239
+WebDriver BiDi listening on ws://127.0.0.1:48194
+Read port: 48239
+1690858938994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:48194/devtools/browser/5d9d4e25-4697-4a34-8a99-f698b020b5e2
+1690858957674	geckodriver	INFO	Listening on 127.0.0.1:48516
+1690858960717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "48517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilevQ2q9x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690858960982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690858961038	Marionette	INFO	Listening on port 48553
+WebDriver BiDi listening on ws://127.0.0.1:48517
+Read port: 48553
+1690858961195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:48517/devtools/browser/761433d2-1a68-4444-a706-b3ff371f9eee
+[Child 49924, MediaDecoderStateMachine #1] WARNING: 2146f87f670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 49924, MediaDecoderStateMachine #1] WARNING: 2146acf1890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 49924, MediaDecoderStateMachine #1] WARNING: 2146acf1230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1690859010503	geckodriver	INFO	Listening on 127.0.0.1:49615
+1690859013548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileWfXE5e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690859013805	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690859013864	Marionette	INFO	Listening on port 49689
+WebDriver BiDi listening on ws://127.0.0.1:49616
+Read port: 49689
+1690859013980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49616/devtools/browser/9ae3a012-d536-4a9f-94ed-e423b02124cf
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7ced7670 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e803b0780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7e95d350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7e95d350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b0fd340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b0fdef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b0fd450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b0fd010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b0fd450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7b8248a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7ced7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7e8b2450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7ced79a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 51116, MediaDecoderStateMachine #1] WARNING: 22e7ced7450 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321

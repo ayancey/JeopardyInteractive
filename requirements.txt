@@ -1,0 +1,6 @@
+flask
+whisper
+whisperx
+selenium
+lxml
+thefuzz

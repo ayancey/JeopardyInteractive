@@ -8,6 +8,8 @@ Play Jeopardy with friends and keep score automatically! The software is based o
 3. The modified Watchparty code pauses during the clue and gives players time to find the correct answer (not implemented yet, uses a second webpage for demo purposes)
 4. Score is deduced from J! Archive and tallied up using Watchparty's chat feature (not implemented yet)
 
+(proof of concept also uses [zolomohan/speech-recognition-in-javascript-starter](https://github.com/zolomohan/speech-recognition-in-javascript-starter))
+
 ## Demo
 
 

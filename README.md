@@ -11,5 +11,6 @@ Play Jeopardy with friends and keep score automatically! The software is based o
 ## Demo
 
 
-https://github.com/ayancey/JeopardyInteractive/assets/10055792/98407c46-942a-41a4-8217-99a289baca2c
+
+https://github.com/ayancey/JeopardyInteractive/assets/10055792/df3bdd8c-45dd-4485-b759-3f71ad8964b7
 

@@ -4,3 +4,6 @@ whisperx
 selenium
 lxml
 thefuzz
+requests
+elosports
+lxml

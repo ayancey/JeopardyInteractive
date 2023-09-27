@@ -1,4 +1,7 @@
 # JeopardyInteractive
+
+(non-functional proof of concept)
+
 Play Jeopardy with friends and keep score automatically! The software is based on [howardchung/watchparty](https://github.com/howardchung/watchparty). 
 
 ## How it works / How to use it
